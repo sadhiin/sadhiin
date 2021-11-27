@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sadhiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadhiin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadhiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadhiin" height="30" width="40" /></a>
+<a href="shanjidul-islam-sadhin-447140193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadhiin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https12828884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https12828884" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjidulislams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjidulislams" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/alphapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alphapi" height="30" width="40" /></a>
