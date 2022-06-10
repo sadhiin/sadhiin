@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. SHANJIDUL ISLAM SADHIN</h1>
 <h3 align="center">Undergraduate student from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhiin&label=Profile%20views&color=0e75b6&style=flat" alt="sadhiin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhiin" alt="sadhiin" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
