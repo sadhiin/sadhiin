@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate student from Bangladesh</h3>
 
 
-- 🌱 I’m currently woking on **thesis on Data Science & Computer Vision**
+- 🌱 I’m currently woking on **thesis on Data Science and Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
